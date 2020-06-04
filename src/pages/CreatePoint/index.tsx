@@ -1,6 +1,7 @@
 import React from 'react';
 import { FiArrowLeft } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
+import { Map, TileLayer, Marker } from 'react-leaflet';
 
 import './styles.css';
 import logo from '../../assets/logo.svg';
